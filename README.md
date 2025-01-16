@@ -6,7 +6,7 @@ To run the project, run:
 
 1. 
 ```
-git clone ttps://github.com/antonVosc/Uber-Clone.git
+git clone https://github.com/antonVosc/Uber-Clone.git
 ```
 
 2. 
