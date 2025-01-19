@@ -38,5 +38,3 @@ cd ../
 ```
 npm run serve
 ```
-
-8. Press enter at the end of postcss.config.js file and return to the terminal.
