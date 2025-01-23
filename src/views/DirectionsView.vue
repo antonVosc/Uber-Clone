@@ -32,6 +32,16 @@
       <div class="bg-gray-400 mx-5 my-3.5 p-1.5 rounded-full">
         <MapMarkerIcon :size="30" fillColor="#f5f5f5" />
       </div>
+
+      <div>
+        <div class="text-lg text-gray-600">
+          London, UK
+        </div>
+
+        <div class="text-lg text-gray-400">
+          UK
+        </div>
+      </div>
     </div>
   </div>
 </template>

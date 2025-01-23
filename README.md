@@ -34,7 +34,11 @@ npm install
 cd ../
 ```
 
-7. 
+7. HARD STEP: Follow instructions given in server/env.example file.
+
+8. Replace key between = and & symbols in src variable at line 9 of public/index.html with GOOGLE_MAPS_API_KEY from server/.env
+
+9. 
 ```
 npm run serve
 ```
